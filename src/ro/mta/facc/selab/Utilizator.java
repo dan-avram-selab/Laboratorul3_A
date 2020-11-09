@@ -24,4 +24,10 @@ public class Utilizator {
 	{
 		return cartiImprumutate;
 	}
+
+	/* Aceasta metoda face ceva interesant */
+	public void doSomething()
+	{
+		/* Does something HERE! */
+	}
 }
