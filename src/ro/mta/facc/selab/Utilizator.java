@@ -19,4 +19,9 @@ public class Utilizator {
 	{
 		this.nume = numeNou;
 	}
+
+	public ArrayList<Carte> getCartiImprumutate()
+	{
+		return cartiImprumutate;
+	}
 }
